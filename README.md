@@ -1,4 +1,4 @@
-# Data
+# Dataset - FTS: Farsi Text in Scene
 
 Now, our dataset is ready for you!
 You can download it here:
